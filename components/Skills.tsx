@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Wrench, FileText, Anchor, Truck } from 'lucide-react';
+import { Wrench, FileText, Truck } from 'lucide-react';
 import { Skill } from '../types';
 
 const skills: Skill[] = [

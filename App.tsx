@@ -1,19 +1,5 @@
 
 import React, { useState, useEffect } from 'react';
-import { 
-  User, 
-  ShieldCheck, 
-  MessageCircle, 
-  Users, 
-  Cpu, 
-  Wrench, 
-  CheckCircle, 
-  Mail, 
-  Phone, 
-  ChevronRight,
-  Menu,
-  X
-} from 'lucide-react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
